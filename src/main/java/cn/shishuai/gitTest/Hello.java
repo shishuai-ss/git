@@ -9,6 +9,7 @@ public class Hello {
         System.out.println("hot-fix change");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("git push");
     }
 
 }
